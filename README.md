@@ -1,4 +1,4 @@
-# Hacktoberfest Finder
+# Hacktoberfest Finder - <HELLO WORLD
 
 > Web app to make it easy to find Github issues with the tag 'Hacktoberfest'.
 
