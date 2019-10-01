@@ -8,7 +8,7 @@
 
 ## 💻 Local Setup
 
-If you want to get Hacktoberfest Finder setup on your computer, you'll need:
+> If you want to get Hacktoberfest Finder setup on your computer, you'll need:
 
 * Node
 * npm/yarn
